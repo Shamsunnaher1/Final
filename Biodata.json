@@ -1,0 +1,21 @@
+{
+    "name": "Shamsunnaher",
+    "age": 22,
+    "gender": "Female",
+    "contact": {
+      "email": "shamsunnahershuchona@gmail.com",
+      "phone": "01752305541"
+    },
+    "address": {
+      "city": "Dhaka",
+      "country": "Bangladesh"
+    },
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "experience": 2,
+    "education": {
+      "degree": "B.Sc Computer Science",
+      "institution": "Green University",
+      "year": 2024
+    }
+  }
+  
